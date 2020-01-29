@@ -3,7 +3,7 @@
 # Use SQL To Automate Excel Import Process
 **Post Date: February 20, 2018**   
 
-![SQL Excel File Import Process]( https://mikesdatawork.files.wordpress.com/2018/02/xls_screen_01.png "Automate Excel Imports With SQL") 
+![SQL Excel File Import Process](https://mikesdatawork.files.wordpress.com/2018/02/xls_screen_01.png "Automate Excel Imports With SQL") 
 
 ## Contents    
 - [About Process](##About-Process)  
