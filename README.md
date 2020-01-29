@@ -130,8 +130,6 @@ from [' + @next_table + '] where [F1] not in (''Issue #'') and [F1] is not null 
 exec    (@populate_final)
 ```
 
-![SQL](https://mikesdatawork.files.wordpress.com/2018/02/xls_screen_01.png "SQL")
-
 
 [![WorksEveryTime](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://shitday.de/)
 
